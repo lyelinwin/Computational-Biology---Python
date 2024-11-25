@@ -15,4 +15,4 @@ Attached are my python codes that I have learned that consist of:
 - Transcribing DNA to RNA
 - Translating RNA to Protein
 
-In addition, are the files that I was working with. 
+In addition, are the files that I was working with. Follow along with my Portfolio for this class called Python_Portfolio_BISC450C
